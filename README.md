@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**tytusplanck/tytusplanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tytus Planck and I'm a Typescript-loving software engineer currently working full-time at 84.51°. I'm the technical leader on the 84.51° design system which is primarily a HTML Custom elements (apart of the Web Component standard) library built with StencilJS and Svelte.
 
-Here are some ideas to get you started:
+#### My top most used languages 👨🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Typescript
+- HTML / CSS
+- Java
+
+#### My top most used frameworks 🖼️
+
+- Svelte
+- React
+- Tailwind
+- Playwright
+- Angular
+- Spring Boot (REST API)
