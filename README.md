@@ -14,5 +14,6 @@ My name is Tytus Planck and I'm a Typescript-loving software engineer currently 
 - React
 - Tailwind
 - Playwright
+- Jest
 - Angular
 - Spring Boot (REST API)
