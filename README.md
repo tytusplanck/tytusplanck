@@ -11,9 +11,9 @@ My name is Tytus Planck and I'm a Typescript-loving software engineer currently 
 #### My top most used frameworks 🖼️
 
 - Svelte
+- Angular
 - React
 - Tailwind
 - Playwright
 - Jest
-- Angular
 - Spring Boot (REST API)
