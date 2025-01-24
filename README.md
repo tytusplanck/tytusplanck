@@ -12,7 +12,7 @@ My name is Tytus Planck and I'm a Typescript-loving software engineer currently 
 
 - Svelte
 - Angular
-- React
+- React (Next.js)
 - Tailwind
 - Playwright
 - Jest
